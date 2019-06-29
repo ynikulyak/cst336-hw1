@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Trojans horses</span><br>
 					This name comes from a software which is very useful software but later do damage you system after run once. This virus can track the login details of the users who is online. Example, E-banking is very common, so its vulnerability of tracing your login details whenever your PC is working without the support of strong antivirus.</p>
 				
-					<a class="back" href="types.html">Back</a>
+					<a class="back" href="types.php">Back</a>
 			</div>
 	    </div>
 	</div>
