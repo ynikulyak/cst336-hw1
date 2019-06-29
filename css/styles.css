@@ -1,0 +1,252 @@
+body {
+	background-color: #d5f4e6;
+	height: 100%;
+}
+
+div.main-layout {
+	display: flex;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-bottom: 5vh;
+	margin-top: 4vh;
+	height: 90vh;
+}
+
+ .nav {
+	background-color: #80ced6;
+	width: 290px;
+	border: 1px solid #e0e2e4;
+	border-top-left-radius: 11px;
+	border-bottom-left-radius: 11px;
+	height: 100%;
+}
+
+ .main-panel {
+ 	background-image: url("../img/virus1.png");
+	background-color: #c2d4dd;
+	border: 1px solid #e0e2e4;
+	border-top-right-radius: 11px;
+	border-bottom-right-radius: 11px;
+	width: 100%;
+	height: 100%;
+
+}
+
+#home, #history, #types, #recovery {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-style: italic;
+	font-size: 2.1em;
+	border: 1px outset #deeaee;
+	border-radius: 7px;
+	height: 80px;
+	padding-top: 10px;
+
+}
+
+.text-panel {
+	background-color: #c2d4dd;
+	border: 3px outset #c2d4dd;
+	border-radius: 12px;
+	margin-top: 87px;
+	margin-left: 40px;
+	margin-right: 40px;
+	height: 83.5%;
+}
+
+.read-more {
+	color: blue;
+}
+
+a.read-again {
+	float: right;
+	color: blue;
+}
+
+.text-panel h1 {
+	text-align: center;
+	font-size: 2.1em;
+	font-family: 'Monoton', cursive;
+}
+
+.text-panel p {
+	font-family: 'Nunito', sans-serif;
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: justify;
+	font-size: 1.3em;
+}
+
+p#information {
+	margin-top: 60px;
+}
+
+span#virus {
+	color: red;
+	font-size: 1.5em;
+	font-weight: bolder;
+	border: 3px solid red;
+}
+
+span#virus{
+	animation:blinkingText 2s infinite;
+
+}
+@keyframes blinkingText{
+	0%{		color: red;	}
+	49%{	color: transparent;	}
+	50%{	color: transparent;	}
+	99%{	color: transparent;	}
+	100%{	color: #000;	}
+}
+
+.nav .active {
+	color: black;
+	transition: .9s
+
+}
+
+.nav a {
+	color: #fefbd8;
+	text-decoration: none;
+}
+
+ .nav a:hover {
+ 	background-color: #618685;
+	transition: .9s
+	
+}
+
+#logo {
+	width: 100px;
+	margin: 0 auto;
+	display: block;
+	margin-top: 10px;
+
+}
+
+footer {
+	font-size: smaller;
+	text-align: center;
+}
+
+table, tr, td{
+	border: 1px outset white;
+	border-collapse: collapse;
+}
+
+td.date {
+	width: 20px;
+}
+
+tr {
+	height: 35px;
+	font-size: 1em;
+    font-family: 'DM Serif Text', serif;
+}
+
+tr:nth-child(odd){
+	background-color: #deeaee;
+}
+
+tr:nth-child(even) {
+	background-color: #cfe0e8;
+}
+
+td {
+  padding: 3px;
+  text-align: left;
+}
+
+span.first-word {
+	color: #c94c4c;
+}
+
+div#links {
+	display: flex;
+}
+
+p#info {
+	float: right;
+	text-align: right;
+	font-size: medium;
+}
+
+
+
+.text-panel header {
+	display: flex;
+	justify-content: center;
+}
+
+.blink-img {
+  animation: blinker 3s infinite;
+}
+@keyframes blinker { 
+  50% { opacity: 0; }
+}
+
+img.virus-image {
+	float: left;
+}
+
+span.virus-type {
+	color: #c94c4c;
+	font-size: 1.2em;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+img.virus-image {
+	margin-right: 10px;
+
+}
+#boot img.virus-image {
+	width: 550px;
+}
+
+#macro img.virus-image {
+	width: 270px;
+	height: 440px;
+}
+
+#memory img.virus-image {
+	height: 190px;
+}
+
+#pikachu img.virus-image {
+	height: 100px;
+}
+
+div#image-container {
+	display: flex;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+#choose-type {
+	width: 600px;
+}
+
+div#links-container {
+	margin-top: 20px;
+	display: block;
+}
+
+
+
+#poly .virus-image{
+	width: 400px;
+}
+
+ul#prevention {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 1.3em;
+}
+
+ul#prevention img.virus-image {
+	margin-right: 30px;
+}
