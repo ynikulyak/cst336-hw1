@@ -61,9 +61,10 @@ div#logo-div {
 
 }
 
-.text-panel #boot {
-      font-size: 4.2vh;
-
+.text-panel #boot, .text-panel #direct, .text-panel #directory, .text-panel #pikachu,
+.text-panel #macro, .text-panel #memory, .text-panel #tequila, .text-panel #overwrite,
+.text-panel #poly, .text-panel #trojan, .text-panel #directory, .text-panel #worm {
+       font-size: 4.2vh;
 }
 
 .read-more {
