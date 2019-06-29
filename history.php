@@ -109,7 +109,7 @@
 						</td>
 					</tr>
 				</table>
-				<a class="read-more" href="types.html">Read more...</a>
+				<a class="read-more" href="types.php">Read more...</a>
 				<p id="info">Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions"> here</a>.</p>
 			</div>
 	    </div>
