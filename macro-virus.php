@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Macro virus</span><br>
 					Macro virus infect the file hat are created from some application or programs which are mainly contain macro files like doc, pps, xls, mdb. So basically such virus infect the files with the macros and also templates and document that are contained in the file. These virus hide in documents that are shared through network and e-mail. Macro virus are 	<em>Relax, bablas, Melissa.A, 097M/Y2K</em>.</p>
 				
-				<a class="back" href="types.html">Back</a>
+				<a class="back" href="types.php">Back</a>
 			</div>
 	    </div>
 	</div>
