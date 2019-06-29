@@ -16,16 +16,16 @@
      <img id="logo" src="img/logo.png" alt="Logo">
    </div>
    <div id="home">
-    <a href="index.html">Home</a>
+    <a href="index.php">Home</a>
   </div>
   <div id="history">
-    <a href="history.html">History</a>
+    <a href="history.php">History</a>
   </div>
   <div id="types">
-    <a class="active" href="types.html">Types of Viruses</a>
+    <a class="active" href="types.php">Types of Viruses</a>
   </div>
   <div id="recovery">
-    <a href="recovery.html">Prevention</a>
+    <a href="recovery.php">Prevention</a>
   </div>
 </div>
 
@@ -35,18 +35,18 @@
     <img id="choose-type" src="img/types.png" usemap="#image-map">
 
     <map name="image-map">
-      <area alt="macro-virus" href="macro-virus.html" coords="58,121,31" shape="circle">
-      <area alt="memory-virus" href="memory-viruses.html" coords="59,184,31" shape="circle">
-      <area alt="overwrite viruses" href="overwrite-viruses.html" coords="99,234,32" shape="circle">
-      <area alt="direct-viruses" href="direct-viruses.html" coords="180,242,39" shape="circle">
-      <area alt="directory-viruses" href="directory-viruses.html" coords="262,240,39" shape="circle">
-      <area alt="web-viruses" href="web-viruses.html" coords="341,239,36" shape="circle">
-      <area alt="multi-viruses" href="multi-viruses.html" coords="383,179,37" shape="circle">
-      <area alt="boot" href="boot.html" coords="106,69,38" shape="circle">
-      <area alt="email-viruses" href="email-viruses.html" coords="186,57,41" shape="circle">
-      <area alt="trojans" href="trojans.html" coords="268,56,40" shape="circle">
-      <area alt="worm" href="worm.html" coords="341,68,33" shape="circle">
-      <area alt="poly-viruses" href="poly-viruses.html" coords="329,115,388,81,436,113,424,144,342,139" shape="poly">
+      <area alt="macro-virus" href="macro-virus.php" coords="58,121,31" shape="circle">
+      <area alt="memory-virus" href="memory-viruses.php" coords="59,184,31" shape="circle">
+      <area alt="overwrite viruses" href="overwrite-viruses.php" coords="99,234,32" shape="circle">
+      <area alt="direct-viruses" href="direct-viruses.php" coords="180,242,39" shape="circle">
+      <area alt="directory-viruses" href="directory-viruses.php" coords="262,240,39" shape="circle">
+      <area alt="web-viruses" href="web-viruses.php" coords="341,239,36" shape="circle">
+      <area alt="multi-viruses" href="multi-viruses.php" coords="383,179,37" shape="circle">
+      <area alt="boot" href="boot.php" coords="106,69,38" shape="circle">
+      <area alt="email-viruses" href="email-viruses.php" coords="186,57,41" shape="circle">
+      <area alt="trojans" href="trojans.php" coords="268,56,40" shape="circle">
+      <area alt="worm" href="worm.php" coords="341,68,33" shape="circle">
+      <area alt="poly-viruses" href="poly-viruses.php" coords="329,115,388,81,436,113,424,144,342,139" shape="poly">
     </map>
     <p id="warning">Click on any virus type for more information.</p>
     </div>
