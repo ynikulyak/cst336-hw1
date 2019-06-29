@@ -6,7 +6,7 @@
    Computer Viruses
  </title>
  <link href="css/styles.css" rel="stylesheet" type="text/css">
- <link href="https://fonts.googleapis.com/css?family=Monoton|Nunito&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="main-layout">
@@ -31,7 +31,9 @@
 
 <div class="main-panel">
  <div class="text-panel">
-  <div id="image-container">
+      <h1 id="warning">Click on any virus type for more information.</h1>
+<div id="div-container">
+  <figure id="image-container">
     <img id="choose-type" src="img/types.png" usemap="#image-map">
 
     <map name="image-map">
@@ -48,13 +50,13 @@
       <area alt="worm" href="worm.php" coords="341,68,33" shape="circle">
       <area alt="poly-viruses" href="poly-viruses.php" coords="329,115,388,81,436,113,424,144,342,139" shape="poly">
     </map>
-    <p id="warning">Click on any virus type for more information.</p>
-    </div>
+    </figure>
       <div id="links-container">
-       <a class="read-more" href="recovery.php">Read more...</a><br><br>
+       <a class="read-more" href="recovery.php">Read more...</a><br>
 
-       <b>Information source can be seen <a href="https://www.assignmenthelp.net/assignment_help/What-is-Computer-Virus">here</a>.</b>
+       <p id="types-info">Information source can be seen <a href="https://www.assignmenthelp.net/assignment_help/What-is-Computer-Virus">here</a>.<p>
      </div>
+   </div>
    </div>
  </div>
 </div>
