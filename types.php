@@ -51,11 +51,11 @@
       <area alt="poly-viruses" href="poly-viruses.php" coords="329,115,388,81,436,113,424,144,342,139" shape="poly">
     </map>
     </figure>
-    <!---  <div id="links-container">
+      <div id="links-container">
        <a class="read-more" href="recovery.php">Read more...</a><br>
 
        <p id="types-info">Information source can be seen<a href="https://www.assignmenthelp.net/assignment_help/What-is-Computer-Virus">here</a>.<p>
-     </div> --->
+     </div> 
    </div>
    </div>
  </div>
