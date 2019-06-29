@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Directory Virus</span><br>
 					Directory virus is also known by cluster virus and file system virus. This can infect the computer’s directory by changing the path by indication the location. Such virus located into the hard disk but affect the entire directory. Directory viruses are <em>die-2</em> virus.</p>
 				
-					<a class="back" href="types.html">Back</a>	
+					<a class="back" href="types.php">Back</a>	
 			</div>
 	    </div>
 	</div>
