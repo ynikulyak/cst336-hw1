@@ -53,6 +53,7 @@ div.main-layout {
 	margin-left: 40px;
 	margin-right: 40px;
 	height: 83.5%;
+	overflow: scroll;
 }
 
 .read-more {
