@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a class="active" href="history.html">History</a>
+  				<a class="active" href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a href="types.html">Types of Viruses</a>
+  				<a href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Prevention</a>
+  				<a href="recovery.php">Prevention</a>
   			</div>
 		</div>
 
