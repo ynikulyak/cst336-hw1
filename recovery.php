@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a href="types.html">Types of Viruses</a>
+  				<a href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a class="active" href="recovery.html">Prevention</a>
+  				<a class="active" href="recovery.php">Prevention</a>
   			</div>
 		</div>
 
@@ -44,7 +44,7 @@
 						<li class="bullet">Perform regular updates of frequently used programs, especially those that provide system security.</li>
 					</ul>
 
-				<a class="read-again" href="index.html">Back to the beginning</a>
+				<a class="read-again" href="index.php">Back to the beginning</a>
 				<p id="information-prevention"><b>Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions">here</a>.</b></p>
 			</div>
 	    </div>
