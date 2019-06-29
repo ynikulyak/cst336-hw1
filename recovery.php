@@ -45,7 +45,7 @@
 					</ul>
 
 				<a class="read-again" href="index.php">Back to the beginning</a>
-				<p id="information-prevention"><b>Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions">here</a>.</b></p>
+				Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions">here</a>.
 			</div>
 	    </div>
 	</div>
