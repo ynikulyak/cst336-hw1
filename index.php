@@ -39,7 +39,7 @@
 					<a class="read-more" href="history.php">Read more...</a>
 				</p>
 				
-				<p id="information"><b>Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions">here</a>.</b></p>
+				<p id="information">Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions">here</a>.</p>
 			</article>
 	    </div>
 	</div>
