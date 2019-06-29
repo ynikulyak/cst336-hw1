@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Web Scripting Virus</span><br>
 					Mostly web pages contain complex code to make their web page content interactive so that such code exploit that cause undesirable actions. Such virus originate from browser and web pages. Web Scripting viruses include <em>JS.Fortnight</em> that spread via malicious emails.</p>
 				
-				<a class="back" href="types.html">Back</a>
+				<a class="back" href="types.php">Back</a>
 			</div>
 	    </div>
 	</div>
