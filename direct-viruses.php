@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Direct Action Viruses</span><br>
 					Direct Action Virus activate when the file containing virus is executed. The virus take no other action unless an infected file is executed again. Most viruses avoid this because this is not so productive, but such virus damage in the past. Direct Action viruses are <em>Vienna Virus</em>.</p>
 				
-					<a class="back" href="types.html">Back</a>
+					<a class="back" href="types.php">Back</a>
 				
 			</div>
 	    </div>
