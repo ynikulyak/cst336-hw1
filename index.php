@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html" class="active">Home</a>
+  				<a href="index.php" class="active">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a href="types.html">Types of Viruses</a>
+  				<a href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Prevention</a>
+  				<a href="recovery.php">Prevention</a>
   			</div>
 		</div>
 
@@ -36,7 +36,7 @@
 					<span id="virus">Computer virus</span> is a type of malicious software that can be embedded in the code of other programs, system memory, etc. to distribute its copies through various communication channels.
 
 					The main purpose of the virus is its spread to disrupt the operation of software and hardware complexes — deleting files and even deleting the operating system, invalidating data placement structures, blocking users, etc. Even if the author of the virus did not program harmful effects, the virus can cause to computer crashes due to errors, unaccounted details of interaction with the operating system and other programs. In addition, viruses, as a rule, occupy space at information storage devices and consume system resources.
-					<a class="read-more" href="history.html">Read more...</a>
+					<a class="read-more" href="history.php">Read more...</a>
 				</p>
 				
 				<p id="information"><b>Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions">here</a>.</b></p>
