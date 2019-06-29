@@ -41,7 +41,7 @@ div#logo-div {
 	margin-bottom: 10px;
 	text-align: center;
 	font-style: italic;
-	font-size: 2.1em;
+	font-size: 5.2vh;
 	border: 1px outset #deeaee;
 	border-radius: 7px;
         height: 15vh;
@@ -148,9 +148,9 @@ td.date {
 }
 
 tr {
-	height: 35px;
-	font-size: 1em;
-    font-family: 'DM Serif Text', serif;
+   height: 6vh;
+   font-size: 2.3vh;
+   font-family: 'DM Serif Text', serif;
 }
 
 tr:nth-child(odd){
