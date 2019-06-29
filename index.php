@@ -12,7 +12,7 @@
 	<div class="main-layout">
 
 		<div class="nav">
-			<div>
+			<div id="logo-div">
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
