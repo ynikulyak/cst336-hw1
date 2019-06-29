@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Boot Infectors</span><br>
 This virus type will include boot sector and master boot record types. While all the viral codes are separated because they infect the hard disks or the floppy. It include the viruses like the brain virus which is very first wild virus is to be created.</p>
 				
-					<a class="back" href="types.html">Back</a>
+					<a class="back" href="types.php">Back</a>
 			</div>
 	    </div>
 	</div>
