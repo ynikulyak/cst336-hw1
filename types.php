@@ -54,7 +54,7 @@
       <div id="links-container">
        <a class="read-more" href="recovery.php">Read more...</a><br>
 
-       <p id="types-info">Information source can be seen <a href="https://www.assignmenthelp.net/assignment_help/What-is-Computer-Virus">here</a>.<p>
+       <p id="types-info">Information source can be seen<a href="https://www.assignmenthelp.net/assignment_help/What-is-Computer-Virus">here</a>.<p>
      </div>
    </div>
    </div>
