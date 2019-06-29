@@ -230,7 +230,7 @@ div#image-container {
 }
 
 #choose-type {
-	width: 600px;
+	position: fixed;
 }
 
 div#links-container {
