@@ -32,6 +32,10 @@ div.main-layout {
 
 }
 
+div#logo {
+	height: 15vh;
+}
+
 #home, #history, #types, #recovery {
 	margin-top: 10px;
 	margin-bottom: 10px;
