@@ -51,7 +51,7 @@
     <p id="warning">Click on any virus type for more information.</p>
     </div>
       <div id="links-container">
-       <a class="read-more" href="recovery.html">Read more...</a><br><br>
+       <a class="read-more" href="recovery.php">Read more...</a><br><br>
 
        <b>Information source can be seen <a href="https://www.assignmenthelp.net/assignment_help/What-is-Computer-Virus">here</a>.</b>
      </div>
