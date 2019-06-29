@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Polymorphic Virus</span><br>
 					Polymorphic virus encode and encrypt themselves every time they are going to infect the computer system. For that they use different encryption methods and algorithms. Since they use different encryption method each time which is difficult for antivirus to locate and resolve them. Polymorphism viruses are <em>Marburg, tuareg, Satan bug, elkern</em>.</p>
 				
-				<a class="back" href="types.html">Back</a>
+				<a class="back" href="types.php">Back</a>
 			</div>
 	    </div>
 	</div>
