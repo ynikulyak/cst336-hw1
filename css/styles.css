@@ -61,6 +61,11 @@ div#logo-div {
 
 }
 
+.text-panel #boot {
+      font-size: 4.2vh;
+
+}
+
 .read-more {
 	color: blue;
 }
