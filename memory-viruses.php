@@ -16,16 +16,16 @@
 				<img id="logo" src="img/logo.png" alt="Logo">
 			</div>
 			<div id="home">
-  				<a href="index.html">Home</a>
+  				<a href="index.php">Home</a>
   			</div>
   			<div id="history">
-  				<a href="history.html">History</a>
+  				<a href="history.php">History</a>
   			</div>
   			<div id="types">
-  				<a class="active" href="types.html">Types of Viruses</a>
+  				<a class="active" href="types.php">Types of Viruses</a>
   			</div>
   			<div id="recovery">
-  				<a href="recovery.html">Recovery</a>
+  				<a href="recovery.php">Recovery</a>
   			</div>
 		</div>
 
@@ -35,7 +35,7 @@
 				 <span class="virus-type">Memory Resident Viruses</span><br>
 					Resident viruses activated every time the OS runs and end up infecting other opened files. Such virus usually fix themselves inside the computer memory, hide in RAM. Resident viruses are <em>CMJ, meve, randex, mrklunky</em>.</p>
 				
-				<a class="back" href="types.html">Back</a>
+				<a class="back" href="types.php">Back</a>
 			</div>
 	    </div>
 	</div>
