@@ -39,7 +39,7 @@ div.main-layout {
 	border: 1px outset #deeaee;
 	border-radius: 7px;
 	height: 15vh;
-	font-size: 4vh;
+	font-size: 5.2vh;
 }
 
 .text-panel {
@@ -82,6 +82,10 @@ a.read-again {
 	font-size: 3.2vh;
 }
 
+.text-panel p#types-info {
+	font-size: 1em;
+}
+
 p#information {
 	margin-top: 60px;
 }
@@ -119,6 +123,7 @@ span#virus{
  .nav a:hover {
  	background-color: #618685;
 	transition: .9s
+	
 }
 
 #logo {
@@ -126,12 +131,14 @@ span#virus{
 	margin: 0 auto;
 	display: block;
 	margin-top: 10px;
+
 }
 
 footer {
 	font-size: smaller;
 	text-align: center;
 }
+
 
 table, tr, td{
 	border: 1px outset white;
@@ -143,8 +150,8 @@ td.date {
 }
 
 tr {
-    height: 6vh;
-    font-size: 2.3vh;
+	height: 6vh;
+	font-size: 2.3vh;
     font-family: 'DM Serif Text', serif;
 }
 
@@ -174,6 +181,8 @@ p#info {
 	text-align: right;
 	font-size: medium;
 }
+
+
 
 .text-panel header {
 	display: flex;
@@ -223,21 +232,19 @@ img.virus-image {
   width: 300px;
   height: 300px;
   position: absolute;
-  left: 50%;
-  top: 30%;
-  transform: translate(50%, 30%);
+  left: 49%;
+  top: 24%;
+  transform: translate(49%, 24%);
+
 }
 
 div#div-container {
 	position: fixed;
 }
 
-div#links-container {
-    position: absolute;
-}
-
 div#links-container a {
 	margin-left: 30px;
+	font-size: 
 }
 
 #poly .virus-image{
