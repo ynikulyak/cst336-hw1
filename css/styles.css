@@ -18,7 +18,7 @@ div.main-layout {
 	border: 1px solid #e0e2e4;
 	border-top-left-radius: 11px;
 	border-bottom-left-radius: 11px;
-	height: 100%;
+	height: 100%;	
 }
 
  .main-panel {
@@ -29,11 +29,6 @@ div.main-layout {
 	border-bottom-right-radius: 11px;
 	width: 100%;
 	height: 100%;
-
-}
-
-div#logo-div {
-	height: 15vh;
 }
 
 #home, #history, #types, #recovery {
@@ -41,12 +36,10 @@ div#logo-div {
 	margin-bottom: 10px;
 	text-align: center;
 	font-style: italic;
-	font-size: 4vh;
 	border: 1px outset #deeaee;
 	border-radius: 7px;
-        height: 15vh;
-	padding-top: 10px;
-
+	height: 15vh;
+	font-size: 5.2vh;
 }
 
 .text-panel {
@@ -58,13 +51,12 @@ div#logo-div {
 	margin-right: 40px;
 	height: 76vh;
 	overflow: scroll;
-
 }
 
 .text-panel #boot, .text-panel #direct, .text-panel #directory, .text-panel #pikachu,
 .text-panel #macro, .text-panel #memory, .text-panel #tequila, .text-panel #overwrite,
 .text-panel #poly, .text-panel #trojan, .text-panel #directory, .text-panel #worm {
-       font-size: 4.2vh;
+	font-size: 4.2vh;
 }
 
 .read-more {
@@ -88,8 +80,9 @@ a.read-again {
 	margin-right: 30px;
 	text-align: justify;
 	font-size: 3.2vh;
-
 }
+
+
 
 p#information {
 	margin-top: 60px;
@@ -144,6 +137,7 @@ footer {
 	text-align: center;
 }
 
+
 table, tr, td{
 	border: 1px outset white;
 	border-collapse: collapse;
@@ -154,9 +148,9 @@ td.date {
 }
 
 tr {
-   height: 6vh;
-   font-size: 2.3vh;
-   font-family: 'DM Serif Text', serif;
+	height: 6vh;
+	font-size: 2.3vh;
+    font-family: 'DM Serif Text', serif;
 }
 
 tr:nth-child(odd){
@@ -232,24 +226,21 @@ img.virus-image {
 	height: 100px;
 }
 
-div#image-container {
-	display: flex;
-	font-size: 1.5em;
-	font-weight: bold;
+#image-container {
 	margin-left: 20px;
-	margin-top: 20px;
 }
 
-#choose-type {
+div#div-container {
 	position: fixed;
 }
 
 div#links-container {
-	margin-top: 20px;
-	display: block;
+	bottom: 0;
 }
 
-
+div#links-container a {
+	margin-left: 30px;
+}
 
 #poly .virus-image{
 	width: 400px;
