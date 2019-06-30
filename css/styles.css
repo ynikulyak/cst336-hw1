@@ -262,12 +262,12 @@ ul#prevention img.virus-image {
 
 @media only screen and (min-width: 1370px) {
  #image-container{	
-  width: 500px;
-  height: 500px;
+  width: 700px;
+  height: 700px;
   position: absolute;
-  left: 85%;
-  top: 55%;
-  transform: translate(85%, 55%);
+  left: 50%;
+  top: 50%;
+  transform: translate(50%, 50%);
 
 }
 }
