@@ -298,4 +298,5 @@ ul#prevention img.virus-image {
 div#links-container {
 	border-radius: 7px;
 	border: 1px outset white;
+	margin-left: 10px;
 }
