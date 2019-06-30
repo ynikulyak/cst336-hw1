@@ -244,7 +244,7 @@ div#div-container {
 
 div#links-container a {
 	margin-left: 30px;
-	font-size: 
+	font-size: 1.6em;
 }
 
 #poly .virus-image{
@@ -267,7 +267,7 @@ ul#prevention img.virus-image {
   position: absolute;
   left: 850%;
   top: 55%;
-  transform: translate(110%, 70%);
+  transform: translate(85%, 55%);
 
 }
 }
