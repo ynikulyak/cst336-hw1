@@ -34,12 +34,19 @@ div.main-layout {
 #home, #history, #types, #recovery {
 	margin-top: 10px;
 	margin-bottom: 10px;
-	text-align: center;
 	font-style: italic;
 	border: 1px outset #deeaee;
 	border-radius: 7px;
 	height: 15vh;
 	font-size: 5.2vh;
+	width: 100%;
+	display:table;	
+}
+
+#home a, #history a, #types a, #recovery a {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
 }
 
 .text-panel {
@@ -242,7 +249,7 @@ div#div-container {
 	position: fixed;
 }
 
-div#links-container a {
+div#links-container a#read-in-types {
 	margin-left: 30px;
 	font-size: 1.6em;
 }
@@ -272,8 +279,10 @@ ul#prevention img.virus-image {
 }
 	
   #home, #history, #types, #recovery {
-
 	font-size: 4vh;
-	  padding: 30% 0;
 }
+}
+div#links-container {
+	border-radius: 7px;
+	border: 1px outset white;
 }
