@@ -83,7 +83,7 @@ a.read-again {
 }
 
 .text-panel p#types-info {
-	font-size: 1em;
+	font-size: 1.3em;
 }
 
 p#information {
@@ -233,8 +233,8 @@ img.virus-image {
   height: 300px;
   position: absolute;
   left: 49%;
-  top: 24%;
-  transform: translate(49%, 24%);
+  top: 23%;
+  transform: translate(49%, 23%);
 
 }
 
@@ -262,10 +262,10 @@ ul#prevention img.virus-image {
 
 @media only screen and (min-width: 1370px) {
  #image-container{	
-  width: 300px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
   position: absolute;
-  left: 850%;
+  left: 85%;
   top: 55%;
   transform: translate(85%, 55%);
 
