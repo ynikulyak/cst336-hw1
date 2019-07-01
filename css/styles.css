@@ -38,13 +38,13 @@ div.main-layout {
 	border: 1px outset #deeaee;
 	border-radius: 7px;
 	height: 15vh;
-	font-size: 5.2vh;
 	width: 100%;
-	display:table;	
+	font-size: 2.2em;
+	display: table;
 }
 
 #home a, #history a, #types a, #recovery a {
-    display:table-cell;
+	 display:table-cell;
     vertical-align:middle;
     text-align:center;
 }
@@ -66,6 +66,10 @@ div.main-layout {
 	font-size: 4.2vh;
 }
 
+a.back {
+	font-size: 3.2vh;
+}
+
 .read-more {
 	color: blue;
 }
@@ -73,10 +77,6 @@ div.main-layout {
 a.read-again {
 	float: right;
 	color: blue;
-}
-
-a.back {
-	font-size: 3.2vh;
 }
 
 .text-panel h1 {
@@ -88,7 +88,6 @@ a.back {
 .text-panel h1#warning {
 	font-size: 2.4em;
 	text-align: center;
-	font-stretch: expanded;
 	font-weight: bold;
 	text-decoration: underline;
 	font-family: sans-serif;
@@ -100,6 +99,14 @@ a.back {
 	margin-right: 30px;
 	text-align: justify;
 	font-size: 3.2vh;
+}
+
+
+
+ #home, #history, #types, #recovery {	
+ 	font-size: 4vh;
+ }
+
 }
 
 .text-panel p#types-info {
@@ -248,23 +255,70 @@ img.virus-image {
 	height: 100px;
 }
 
+
+@media only screen and (min-width: 800px) {
 #image-container {
   width: 300px;
   height: 300px;
   position: absolute;
-  left: 49%;
-  top: 23%;
-  transform: translate(49%, 23%);
+  left: 35%;
+  top: 33%;
+  transform: translate(35%, 33%);
+}
 
+.text-panel h1#warning {
+	font-size: 2em;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	font-family: sans-serif;
+}
+}
+
+@media only screen and (max-width: 601px) {
+ #image-container{	
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 20%;
+  top: 33%;
+  transform: translate(20%, 33%);
+
+}
+.text-panel h1#warning {
+	font-size: 1.4em;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	font-family: sans-serif;
+}
+}
+
+@media only screen and (min-width: 1367px) {
+ #image-container{	
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 110%;
+  top: 70%;
+  transform: translate(110%, 70%);
+}
 }
 
 div#div-container {
-	position: fixed;
+	overflow: scroll;
 }
 
 div#links-container a#read-in-types {
 	margin-left: 30px;
 	font-size: 1.6em;
+
+}
+
+div#links-container {
+	border-radius: 7px;
+	border: 1px outset white;
+	margin-left: 10px;
 }
 
 #poly .virus-image{
@@ -278,25 +332,4 @@ ul#prevention {
 
 ul#prevention img.virus-image {
 	margin-right: 35px;
-}
-
-@media only screen and (min-width: 1370px) {
- #image-container{	
-  width: 700px;
-  height: 700px;
-  position: absolute;
-  left: 30%;
-  top: 20%;
-  transform: translate(30%, 20%);
-
-}
-	
-  #home, #history, #types, #recovery {
-	font-size: 3.8vh;
-}
-}
-div#links-container {
-	border-radius: 7px;
-	border: 1px outset white;
-	margin-left: 10px;
 }
