@@ -6,7 +6,9 @@
 		Computer Viruses
 	</title>
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Monoton|Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
+
 </head>
 <body>
 	<div class="main-layout">
