@@ -6,7 +6,8 @@
 		Computer Viruses
 	</title>
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Monoton|DM+Serif+Text&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap" rel="stylesheet">
 </head>
 <body>
 	<div class="main-layout">
