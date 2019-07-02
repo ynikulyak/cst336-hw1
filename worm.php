@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>
 		Computer Viruses
 	</title>
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Monoton|Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
+
 </head>
 <body>
 	<div class="main-layout">
@@ -31,7 +33,7 @@
 
 		<div class="main-panel">
 			<div class="text-panel">
-				<p id="worm"> <img class="virus-image" src="img/worm.gif" alr="worm-virus"> 
+				<p id="worm"> <img class="virus-image" src="img/worm.gif" alt="worm-virus"> 
 				 <span class="virus-type">Worm</span><br>
 					Worm is very similar to a virus having a capability to self-replicate which is leading to negative effect on your system. This consume too much system memory and also affect web servers and network servers. Worm viruses are <em>lovgate.F, sobig.D, trile.C, PSWBugbear.B, Mapson.</em></p>
 				
