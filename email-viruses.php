@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>
 		Computer Viruses
 	</title>
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Monoton|Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
+
 </head>
 <body>
 	<div class="main-layout">
@@ -31,7 +33,7 @@
 
 		<div class="main-panel">
 			<div class="text-panel">
-				<p id="pikachu"> <img class="virus-image" src="img/email-virus.png" alr="email-virus"> 
+				<p id="pikachu"> <img class="virus-image" src="img/email-virus.png" alt="email-virus"> 
 				 <span class="virus-type">Email Virus</span><br>
 					This virus is spread via email, this will hide an email when recipient opens the mail. They generally target a specific type of email system (Microsoft's Outlook is the most commonly used), harvest email addresses from various sources, and may append copies of themselves to all email sent, or may generate email messages containing copies of themselves as attachments. Email-Worm like <em>Win32.Pikachu</em> or <em>Pikachu</em>.</p>
 				
