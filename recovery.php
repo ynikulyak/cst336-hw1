@@ -33,7 +33,7 @@
 		<div class="main-panel">
 			<div class="text-panel">
 				<h1>Viruses Prevention</h1>
-				<p> <img class="virus-image" src="img/antivirus.png" alt="antivirus">
+				<p id="paragraph"> <img class="virus-image" src="img/antivirus.png" alt="antivirus">.
 					<ul id="prevention"> 
 						<li class="bullet">Use antivirus software.</li>
 						<li class="bullet">Do not work under privileged accounts unless absolutely necessary.</li>
