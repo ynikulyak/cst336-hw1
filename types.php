@@ -34,7 +34,7 @@
       <h1 id="warning">Click on any virus type for more information.</h1>
 <div id="div-container">
   <figure id="image-container">
-    <img id="choose-type" src="img/types.png" usemap="#image-map">
+    <img id="choose-type" src="img/types.png" usemap="#image-map" alt="types">
 
     <map name="image-map">
       <area alt="macro-virus" href="macro-virus.php" coords="58,121,31" shape="circle">
