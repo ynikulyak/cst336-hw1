@@ -33,7 +33,8 @@
 		<div class="main-panel">
 			<div class="text-panel">
 				<h1>Viruses Prevention</h1>
-				<ul id="prevention"> <img class="virus-image" src="img/antivirus.png" alt="antivirus">
+				<p> <img class="virus-image" src="img/antivirus.png" alt="antivirus">
+				<ul id="prevention"> 
 						<li class="bullet">Use antivirus software.</li>
 						<li class="bullet">Do not work under privileged accounts unless absolutely necessary.</li>
 						<li class="bullet">Do not run unfamiliar programs from dubious sources.</li>
@@ -43,7 +44,7 @@
     					<li class="bullet">Use only trusted distributions.</li>
 						<li class="bullet">Constantly make backup copies of important data and have an image of the system with all the settings for fast deployment.</li>
 						<li class="bullet">Perform regular updates of frequently used programs, especially those that provide system security.</li>
-					</ul>
+				</ul> </p>
 
 				<a class="read-again" href="index.php">Back to the beginning</a>
 				Information source can be seen <a href="https://en.wikipedia.org/wiki/Computer_virus#Operations_and_functions">here</a>.
