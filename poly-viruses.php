@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>
 		Computer Viruses
 	</title>
 	<link href="css/styles.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Monoton|Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet">
+
 </head>
 <body>
 	<div class="main-layout">
@@ -31,7 +33,7 @@
 
 		<div class="main-panel">
 			<div class="text-panel">
-				<p id="poly"> <img class="virus-image" src="img/poly-virus.png" alr="poly-virus"> 
+				<p id="poly"> <img class="virus-image" src="img/poly-virus.png" alt="poly-virus"> 
 				 <span class="virus-type">Polymorphic Virus</span><br>
 					Polymorphic virus encode and encrypt themselves every time they are going to infect the computer system. For that they use different encryption methods and algorithms. Since they use different encryption method each time which is difficult for antivirus to locate and resolve them. Polymorphism viruses are <em>Marburg, tuareg, Satan bug, elkern</em>.</p>
 				
